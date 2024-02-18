@@ -71,8 +71,6 @@ amuda=input("please enter the amuda: ")
 
 
 
-
-
 if winner != 'x' and winner != 'o':
     return None
     return winner
